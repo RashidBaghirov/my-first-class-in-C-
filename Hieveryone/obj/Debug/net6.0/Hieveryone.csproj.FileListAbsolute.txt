@@ -1,0 +1,15 @@
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\bin\Debug\net6.0\Hieveryone.exe
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\bin\Debug\net6.0\Hieveryone.deps.json
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\bin\Debug\net6.0\Hieveryone.runtimeconfig.json
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\bin\Debug\net6.0\Hieveryone.dll
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\bin\Debug\net6.0\Hieveryone.pdb
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\Hieveryone.csproj.AssemblyReference.cache
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\Hieveryone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\Hieveryone.AssemblyInfoInputs.cache
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\Hieveryone.AssemblyInfo.cs
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\Hieveryone.csproj.CoreCompileInputs.cache
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\Hieveryone.dll
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\refint\Hieveryone.dll
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\Hieveryone.pdb
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\Hieveryone.genruntimeconfig.cache
+C:\Users\99450\source\repos\Hieveryone\Hieveryone\obj\Debug\net6.0\ref\Hieveryone.dll
