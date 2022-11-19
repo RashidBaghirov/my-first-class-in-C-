@@ -32,10 +32,12 @@
 
 #region Task2
 
-//using Hieveryone;
+using Hieveryone;
 
 
-//Student telebe=new Student("Narman","Novruzov");
+Student telebe = new Student("Narman", "Novruzov",19,79,false);
+Student telebe1 = new Student("Rashid", "Baghirov", 25, 99, false);
+
 
 #endregion
 

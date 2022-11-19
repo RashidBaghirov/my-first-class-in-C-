@@ -31,6 +31,10 @@ namespace Hieveryone
             Console.WriteLine(Point);
 
             Greated();
+            StudentPoint();
+
+            Console.WriteLine("-----------------------");
+               
 
         }
 
