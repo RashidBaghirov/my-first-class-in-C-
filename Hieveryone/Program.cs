@@ -20,6 +20,7 @@
 //			sentence = sentence.ToUpper();
 //			Console.Write(sentence[i]);
 //			i++;
+          continue;
 //		}
 //		Console.Write(sentence[i]);
 //        sentence = sentence.ToLower();
