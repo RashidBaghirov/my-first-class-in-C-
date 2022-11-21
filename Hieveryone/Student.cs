@@ -38,13 +38,10 @@ namespace Hieveryone
 
         }
 
-        public Student(string name,string surname)
+        public string StudentAd()
         {
-            Name = name;
-            Surname = surname;
-
-            Console.Write(Name+ ' ');
-            Console.WriteLine(Surname);
+            Name + ' ' + Surname;
+            
         }
 
 
